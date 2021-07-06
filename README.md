@@ -1,1 +1,2 @@
 # frist
+print('hello world')
